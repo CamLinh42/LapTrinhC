@@ -1,0 +1,6 @@
+E:\LTC#\Baitap2\Bai18\Bai18\bin\Debug\Bai18.exe.config
+E:\LTC#\Baitap2\Bai18\Bai18\bin\Debug\Bai18.exe
+E:\LTC#\Baitap2\Bai18\Bai18\bin\Debug\Bai18.pdb
+E:\LTC#\Baitap2\Bai18\Bai18\obj\Debug\Bai18.csproj.CoreCompileInputs.cache
+E:\LTC#\Baitap2\Bai18\Bai18\obj\Debug\Bai18.exe
+E:\LTC#\Baitap2\Bai18\Bai18\obj\Debug\Bai18.pdb

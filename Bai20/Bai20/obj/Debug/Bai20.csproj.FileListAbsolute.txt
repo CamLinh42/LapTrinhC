@@ -1,0 +1,6 @@
+E:\LTC#\Baitap2\Bai20\Bai20\bin\Debug\Bai20.exe.config
+E:\LTC#\Baitap2\Bai20\Bai20\bin\Debug\Bai20.exe
+E:\LTC#\Baitap2\Bai20\Bai20\bin\Debug\Bai20.pdb
+E:\LTC#\Baitap2\Bai20\Bai20\obj\Debug\Bai20.csproj.CoreCompileInputs.cache
+E:\LTC#\Baitap2\Bai20\Bai20\obj\Debug\Bai20.exe
+E:\LTC#\Baitap2\Bai20\Bai20\obj\Debug\Bai20.pdb

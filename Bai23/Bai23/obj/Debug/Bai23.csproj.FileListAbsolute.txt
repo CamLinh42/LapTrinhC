@@ -1,0 +1,7 @@
+E:\LTC#\Baitap2\Bai23\Bai23\bin\Debug\Bai23.exe.config
+E:\LTC#\Baitap2\Bai23\Bai23\bin\Debug\Bai23.exe
+E:\LTC#\Baitap2\Bai23\Bai23\bin\Debug\Bai23.pdb
+E:\LTC#\Baitap2\Bai23\Bai23\obj\Debug\Bai23.csprojAssemblyReference.cache
+E:\LTC#\Baitap2\Bai23\Bai23\obj\Debug\Bai23.csproj.CoreCompileInputs.cache
+E:\LTC#\Baitap2\Bai23\Bai23\obj\Debug\Bai23.exe
+E:\LTC#\Baitap2\Bai23\Bai23\obj\Debug\Bai23.pdb

@@ -1,0 +1,7 @@
+E:\LTC#\Baitap2\Bai19\Bai19\bin\Debug\Bai19.exe.config
+E:\LTC#\Baitap2\Bai19\Bai19\bin\Debug\Bai19.exe
+E:\LTC#\Baitap2\Bai19\Bai19\bin\Debug\Bai19.pdb
+E:\LTC#\Baitap2\Bai19\Bai19\obj\Debug\Bai19.csprojAssemblyReference.cache
+E:\LTC#\Baitap2\Bai19\Bai19\obj\Debug\Bai19.csproj.CoreCompileInputs.cache
+E:\LTC#\Baitap2\Bai19\Bai19\obj\Debug\Bai19.exe
+E:\LTC#\Baitap2\Bai19\Bai19\obj\Debug\Bai19.pdb

@@ -1,0 +1,7 @@
+E:\LTC#\BTSV\BTSV\bin\Debug\BTSV.exe.config
+E:\LTC#\BTSV\BTSV\bin\Debug\BTSV.exe
+E:\LTC#\BTSV\BTSV\bin\Debug\BTSV.pdb
+E:\LTC#\BTSV\BTSV\obj\Debug\BTSV.csprojAssemblyReference.cache
+E:\LTC#\BTSV\BTSV\obj\Debug\BTSV.csproj.CoreCompileInputs.cache
+E:\LTC#\BTSV\BTSV\obj\Debug\BTSV.exe
+E:\LTC#\BTSV\BTSV\obj\Debug\BTSV.pdb

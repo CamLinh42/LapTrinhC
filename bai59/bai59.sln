@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1500
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bai59", "bai59\bai59.csproj", "{F51F6AB8-492D-40F9-B7CB-D1C2A52C2DDE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BaitapT5", "C:\Users\TGDD\source\repos\BaitapT5\BaitapT5\BaitapT5.csproj", "{97834861-9B46-4CAD-BC0C-54F3C073C925}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F51F6AB8-492D-40F9-B7CB-D1C2A52C2DDE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F51F6AB8-492D-40F9-B7CB-D1C2A52C2DDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F51F6AB8-492D-40F9-B7CB-D1C2A52C2DDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F51F6AB8-492D-40F9-B7CB-D1C2A52C2DDE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{97834861-9B46-4CAD-BC0C-54F3C073C925}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97834861-9B46-4CAD-BC0C-54F3C073C925}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97834861-9B46-4CAD-BC0C-54F3C073C925}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97834861-9B46-4CAD-BC0C-54F3C073C925}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7BA0323A-09A9-463B-8152-038DB7B38690}
+	EndGlobalSection
+EndGlobal

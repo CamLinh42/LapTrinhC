@@ -1,0 +1,7 @@
+E:\LTC#\baitapt5\bai63\bai63\obj\Debug\bai63.csprojAssemblyReference.cache
+E:\LTC#\baitapt5\bai63\bai63\obj\Debug\bai63.csproj.CoreCompileInputs.cache
+E:\LTC#\baitapt5\bai63\bai63\bin\Debug\bai63.exe.config
+E:\LTC#\baitapt5\bai63\bai63\bin\Debug\bai63.exe
+E:\LTC#\baitapt5\bai63\bai63\bin\Debug\bai63.pdb
+E:\LTC#\baitapt5\bai63\bai63\obj\Debug\bai63.exe
+E:\LTC#\baitapt5\bai63\bai63\obj\Debug\bai63.pdb

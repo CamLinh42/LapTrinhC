@@ -1,0 +1,7 @@
+E:\LTC#\Baitap2\Bai47\Bai47\bin\Debug\Bai47.exe.config
+E:\LTC#\Baitap2\Bai47\Bai47\bin\Debug\Bai47.exe
+E:\LTC#\Baitap2\Bai47\Bai47\bin\Debug\Bai47.pdb
+E:\LTC#\Baitap2\Bai47\Bai47\obj\Debug\Bai47.csprojAssemblyReference.cache
+E:\LTC#\Baitap2\Bai47\Bai47\obj\Debug\Bai47.csproj.CoreCompileInputs.cache
+E:\LTC#\Baitap2\Bai47\Bai47\obj\Debug\Bai47.exe
+E:\LTC#\Baitap2\Bai47\Bai47\obj\Debug\Bai47.pdb
