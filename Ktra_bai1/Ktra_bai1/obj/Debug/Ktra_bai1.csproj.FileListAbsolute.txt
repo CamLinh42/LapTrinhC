@@ -1,0 +1,6 @@
+E:\LTC#\Ktra_bai1\Ktra_bai1\bin\Debug\Ktra_bai1.exe.config
+E:\LTC#\Ktra_bai1\Ktra_bai1\bin\Debug\Ktra_bai1.exe
+E:\LTC#\Ktra_bai1\Ktra_bai1\bin\Debug\Ktra_bai1.pdb
+E:\LTC#\Ktra_bai1\Ktra_bai1\obj\Debug\Ktra_bai1.csproj.CoreCompileInputs.cache
+E:\LTC#\Ktra_bai1\Ktra_bai1\obj\Debug\Ktra_bai1.exe
+E:\LTC#\Ktra_bai1\Ktra_bai1\obj\Debug\Ktra_bai1.pdb
